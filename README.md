@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roman Efremov
 - 🏫 I'm a student of a private university Singidunum in Serbia.
-- 👀 I’m currently Python Junior (about 6 months of an experience) ❤️
+- 👀 I’m currently a Python Junior (about 6 months of an experience) ❤️
 - 🌱 I’m learning an Aiogram framework and improve my code skills
 
 <!---
